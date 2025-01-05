@@ -17,7 +17,7 @@ or pnpm start --character="/Users/luoyu/codes/gits/eliza/ai-agent-cognitivedrift
 ```
 
 <div align="center">
-  <img src=".life.jpg" alt="life" width="50%" />
+  <img src="life.jpg" alt="life" width="50%" />
 </div>
 
 ## Based on Eliza 🤖
