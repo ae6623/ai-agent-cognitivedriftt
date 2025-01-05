@@ -1,7 +1,8 @@
 # cognitivedrift
 
-An AI Agent built by Eliza，You can start with this cmd, you can use free api-token by Gaianet qwen7B/70B, 我已经提前配置好了。
+An AI Agent built by Eliza，You can start with this bash, use free api-token by Gaianet qwen7B/70B, I have already configured it in advance. 我已经提前配置好了。
 
+base:
 node>Node.js@v23.5.0.
 npm>npm@10.9.2
 pnpm>pnpm@9.15.2
