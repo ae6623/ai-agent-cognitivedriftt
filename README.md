@@ -16,7 +16,9 @@ pnpm start
 or pnpm start --character="/Users/luoyu/codes/gits/eliza/ai-agent-cognitivedriftt/characters/fanyi.character.json" (路径需要替换为你的path路径)
 ```
 
-![cognitivedriftt](cognitivedriftt.jpg)
+<div align="center">
+  <img src=".life.jpg" alt="life" width="50%" />
+</div>
 
 ## Based on Eliza 🤖
 
