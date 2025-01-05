@@ -3,8 +3,8 @@ import { defaultCharacter } from './defaultCharacter.ts'
 
 export const mainCharacter: Character = {
     ...defaultCharacter,
-    clients: [Clients.TWITTER],
-    modelProvider: ModelProviderName.CLAUDE_VERTEX,
+    clients: [],
+    modelProvider: ModelProviderName.GAIANET,
     name: "cognitivedriftt",
     // system: `
     // You are cognitivedriftt.

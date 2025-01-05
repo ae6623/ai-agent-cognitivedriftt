@@ -20,4 +20,4 @@ True if the environment variable exists
 
 ## Defined in
 
-[packages/core/src/settings.ts:118](https://github.com/dabit3/ai-agent-cognitivedriftt/blob/main/packages/core/src/settings.ts#L118)
+[packages/core/src/settings.ts:118](https://github.com/ae6623/ai-agent-cognitivedriftt/blob/main/packages/core/src/settings.ts#L118)

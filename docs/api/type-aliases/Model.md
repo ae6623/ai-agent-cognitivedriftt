@@ -100,4 +100,4 @@ Model names by size class
 
 ## Defined in
 
-[packages/core/src/types.ts:142](https://github.com/dabit3/ai-agent-cognitivedriftt/blob/main/packages/core/src/types.ts#L142)
+[packages/core/src/types.ts:142](https://github.com/ae6623/ai-agent-cognitivedriftt/blob/main/packages/core/src/types.ts#L142)

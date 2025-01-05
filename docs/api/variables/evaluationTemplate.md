@@ -8,4 +8,4 @@ Template used for the evaluation generateText.
 
 ## Defined in
 
-[packages/core/src/evaluators.ts:8](https://github.com/dabit3/ai-agent-cognitivedriftt/blob/main/packages/core/src/evaluators.ts#L8)
+[packages/core/src/evaluators.ts:8](https://github.com/ae6623/ai-agent-cognitivedriftt/blob/main/packages/core/src/evaluators.ts#L8)
