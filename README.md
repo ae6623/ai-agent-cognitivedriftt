@@ -1,6 +1,20 @@
 # cognitivedrift
 
-An AI Agent built by Nader
+An AI Agent built by Eliza，You can start with this cmd, you can use free api-token by Gaianet qwen7B/70B, 我已经提前配置好了。
+
+node>Node.js@v23.5.0.
+npm>npm@10.9.2
+pnpm>pnpm@9.15.2
+
+```bash
+clone https://github.com/ae6623/ai-agent-cognitivedriftt.git
+cd ai-agent-cognitivedriftt
+npm i -g pnpm
+pnpm i
+pnpm build
+pnpm start 
+or pnpm start --character="/Users/luoyu/codes/gits/eliza/ai-agent-cognitivedriftt/characters/fanyi.character.json" (路径需要替换为你的path路径)
+```
 
 ![cognitivedriftt](cognitivedriftt.jpg)
 
