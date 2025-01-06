@@ -5,7 +5,7 @@ export const character: Character = {
     name: "trump",
     // plugins: [],
     clients: [],
-    modelProvider: ModelProviderName.openai,
+    modelProvider: ModelProviderName.GAIANET,
     settings: {
         secrets: {
             
