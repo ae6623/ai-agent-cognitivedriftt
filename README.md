@@ -13,7 +13,7 @@ cd ai-agent-cognitivedriftt
 npm i -g pnpm
 pnpm i
 pnpm build
-pnpm start 
+pnpm start --characters="ai-agent-cognitivedriftt/characters/trump.character.json"
 or pnpm start --character="/Users/luoyu/codes/gits/eliza/ai-agent-cognitivedriftt/characters/fanyi.character.json" (路径需要替换为你的path路径)
 ```
 
