@@ -14,7 +14,7 @@ npm i -g pnpm
 pnpm i
 pnpm build
 pnpm start --characters="ai-agent-cognitivedriftt/characters/trump.character.json"
-or pnpm start --character="/Users/luoyu/codes/gits/eliza/ai-agent-cognitivedriftt/characters/fanyi.character.json" (路径需要替换为你的path路径)
+or pnpm start --character="ai-agent-cognitivedriftt/characters/fanyi.character.json" (可以自己新增prompt角色)
 ```
 
 <div align="left">
